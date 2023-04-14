@@ -1,0 +1,12 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\bin\Debug\1-ÖğrenciSınavNotKAyıtSistemi.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\bin\Debug\1-ÖğrenciSınavNotKAyıtSistemi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\bin\Debug\1-ÖğrenciSınavNotKAyıtSistemi.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\1-ÖğrenciSınavNotKAyıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\_1_ÖğrenciSınavNotKAyıtSistemi.frmGiris.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\_1_ÖğrenciSınavNotKAyıtSistemi.FrmOgrenciDetay.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\_1_ÖğrenciSınavNotKAyıtSistemi.FrmOgretmenDetay.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\_1_ÖğrenciSınavNotKAyıtSistemi.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\1-ÖğrenciSınavNotKAyıtSistemi.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\1-ÖğrenciSınavNotKAyıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\1-ÖğrenciSınavNotKAyıtSistemi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\1-ÖğrenciSınavNotKAyıtSistemi\1-ÖğrenciSınavNotKAyıtSistemi\obj\Debug\1-ÖğrenciSınavNotKAyıtSistemi.pdb

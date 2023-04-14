@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\bin\Debug\ÜrünMaliyetSis.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\bin\Debug\ÜrünMaliyetSis.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\bin\Debug\ÜrünMaliyetSis.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\ÜrünMaliyetSis\ÜrünMaliyetSis\obj\Debug\ÜrünMaliyetSis.pdb

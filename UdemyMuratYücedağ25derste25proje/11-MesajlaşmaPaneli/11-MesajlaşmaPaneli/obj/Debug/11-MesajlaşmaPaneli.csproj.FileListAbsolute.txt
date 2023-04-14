@@ -1,0 +1,11 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\bin\Debug\11-MesajlaşmaPaneli.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\bin\Debug\11-MesajlaşmaPaneli.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\bin\Debug\11-MesajlaşmaPaneli.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\11-MesajlaşmaPaneli.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\_11_MesajlaşmaPaneli.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\_11_MesajlaşmaPaneli.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\11-MesajlaşmaPaneli.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\11-MesajlaşmaPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\11-MesajlaşmaPaneli.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\11-MesajlaşmaPaneli.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\11-MesajlaşmaPaneli\11-MesajlaşmaPaneli\obj\Debug\_11_MesajlaşmaPaneli.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\bin\Debug\13-VeriTabanıVerileriŞifreleme.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\bin\Debug\13-VeriTabanıVerileriŞifreleme.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\bin\Debug\13-VeriTabanıVerileriŞifreleme.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\13-VeriTabanıVerileriŞifreleme.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\_13_VeriTabanıVerileriŞifreleme.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\_13_VeriTabanıVerileriŞifreleme.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\13-VeriTabanıVerileriŞifreleme.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\13-VeriTabanıVerileriŞifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\13-VeriTabanıVerileriŞifreleme.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\13-VeriTabanıVerileriŞifreleme\13-VeriTabanıVerileriŞifreleme\obj\Debug\13-VeriTabanıVerileriŞifreleme.pdb

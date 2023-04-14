@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\bin\Debug\8-İkiBoyutluHareket.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\bin\Debug\8-İkiBoyutluHareket.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\bin\Debug\8-İkiBoyutluHareket.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\8-İkiBoyutluHareket.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\_8_İkiBoyutluHareket.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\_8_İkiBoyutluHareket.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\8-İkiBoyutluHareket.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\8-İkiBoyutluHareket.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\8-İkiBoyutluHareket.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\8-İkiBoyutluHareket\8-İkiBoyutluHareket\obj\Debug\8-İkiBoyutluHareket.pdb

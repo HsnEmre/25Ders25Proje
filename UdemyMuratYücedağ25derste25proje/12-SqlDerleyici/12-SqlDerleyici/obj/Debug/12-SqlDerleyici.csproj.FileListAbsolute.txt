@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\bin\Debug\12-SqlDerleyici.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\bin\Debug\12-SqlDerleyici.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\bin\Debug\12-SqlDerleyici.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\12-SqlDerleyici.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\_12_SqlDerleyici.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\_12_SqlDerleyici.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\12-SqlDerleyici.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\12-SqlDerleyici.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\12-SqlDerleyici.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\12-SqlDerleyici\12-SqlDerleyici\obj\Debug\12-SqlDerleyici.pdb

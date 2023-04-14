@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\bin\Debug\PetrolAkaryakıtSis.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\bin\Debug\PetrolAkaryakıtSis.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\bin\Debug\PetrolAkaryakıtSis.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\PetrolAkaryakıtSis\PetrolAkaryakıtSis\obj\Debug\PetrolAkaryakıtSis.pdb

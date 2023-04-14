@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\BiletRezervasyonSistemi\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.pdb

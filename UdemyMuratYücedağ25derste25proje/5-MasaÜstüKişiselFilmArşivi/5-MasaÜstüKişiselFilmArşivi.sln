@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-MasaÜstüKişiselFilmArşivi", "5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi.csproj", "{87DFFC29-2451-4B0D-889F-01660FB0B07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DFFC29-2451-4B0D-889F-01660FB0B07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DFFC29-2451-4B0D-889F-01660FB0B07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DFFC29-2451-4B0D-889F-01660FB0B07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DFFC29-2451-4B0D-889F-01660FB0B07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3750E2B8-95DA-47EB-BFBC-A1FDE30F9771}
+	EndGlobalSection
+EndGlobal

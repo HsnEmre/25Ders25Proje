@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\bin\Debug\4-XMLKullanarakveDövizUygulaması.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\bin\Debug\4-XMLKullanarakveDövizUygulaması.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\bin\Debug\4-XMLKullanarakveDövizUygulaması.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\4-XMLKullanarakveDövizUygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\_4_XMLKullanarakveDövizUygulaması.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\_4_XMLKullanarakveDövizUygulaması.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\4-XMLKullanarakveDövizUygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\4-XMLKullanarakveDövizUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\4-XMLKullanarakveDövizUygulaması.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\4-XMLKullanarakveDövizUygulaması\4-XMLKullanarakveDövizUygulaması\obj\Debug\4-XMLKullanarakveDövizUygulaması.pdb

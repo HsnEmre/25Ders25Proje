@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerKullanarakVeriTabanıYedekTablosu", "TriggerKullanarakVeriTabanıYedekTablosu\TriggerKullanarakVeriTabanıYedekTablosu.csproj", "{83F95BA5-EB39-4528-AC96-776ED95F338B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F95BA5-EB39-4528-AC96-776ED95F338B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F95BA5-EB39-4528-AC96-776ED95F338B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F95BA5-EB39-4528-AC96-776ED95F338B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F95BA5-EB39-4528-AC96-776ED95F338B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5E925E-752A-4D1E-AD78-7A89DE3B4613}
+	EndGlobalSection
+EndGlobal

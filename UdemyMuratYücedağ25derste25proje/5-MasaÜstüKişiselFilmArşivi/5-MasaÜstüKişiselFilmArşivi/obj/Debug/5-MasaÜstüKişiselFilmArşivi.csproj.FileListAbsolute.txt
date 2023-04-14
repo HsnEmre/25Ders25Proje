@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\bin\Debug\5-MasaÜstüKişiselFilmArşivi.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\bin\Debug\5-MasaÜstüKişiselFilmArşivi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\bin\Debug\5-MasaÜstüKişiselFilmArşivi.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\5-MasaÜstüKişiselFilmArşivi.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\_5_MasaÜstüKişiselFilmArşivi.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\_5_MasaÜstüKişiselFilmArşivi.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\5-MasaÜstüKişiselFilmArşivi.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\5-MasaÜstüKişiselFilmArşivi.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\5-MasaÜstüKişiselFilmArşivi.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\5-MasaÜstüKişiselFilmArşivi\5-MasaÜstüKişiselFilmArşivi\obj\Debug\5-MasaÜstüKişiselFilmArşivi.pdb

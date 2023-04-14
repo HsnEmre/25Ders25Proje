@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\bin\Debug\3-PasaparolaOyunu.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\bin\Debug\3-PasaparolaOyunu.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\bin\Debug\3-PasaparolaOyunu.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\3-PasaparolaOyunu.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\_3_PasaparolaOyunu.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\_3_PasaparolaOyunu.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\3-PasaparolaOyunu.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\3-PasaparolaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\3-PasaparolaOyunu.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\3-PasaparolaOyunu\3-PasaparolaOyunu\obj\Debug\3-PasaparolaOyunu.pdb

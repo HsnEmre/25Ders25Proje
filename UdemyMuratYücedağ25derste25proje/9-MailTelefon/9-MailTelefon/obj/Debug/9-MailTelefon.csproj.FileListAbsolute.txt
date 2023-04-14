@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\bin\Debug\9-MailTelefon.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\bin\Debug\9-MailTelefon.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\bin\Debug\9-MailTelefon.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\9-MailTelefon.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\_9_MailTelefon.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\_9_MailTelefon.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\9-MailTelefon.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\9-MailTelefon.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\9-MailTelefon.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\9-MailTelefon\9-MailTelefon\obj\Debug\9-MailTelefon.pdb
